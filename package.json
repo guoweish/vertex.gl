@@ -1,0 +1,24 @@
+{
+  "name": "vertex.gl",
+  "version": "0.0.2",
+  "description": "procedural geometry generator for graphic pipline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guoweish/vertex.gl.git"
+  },
+  "keywords": [
+    "vertex",
+    "geometry",
+    "webgl",
+    "graphic"
+  ],
+  "author": "guowei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guoweish/vertex.gl/issues"
+  }
+}
